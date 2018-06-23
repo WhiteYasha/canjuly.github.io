@@ -1,7 +1,7 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
 title:      软件过程管理             # 标题 
-subtitle:   复习用                  #副标题
+subtitle:   期末复习用               #副标题
 date:       2018-06-23              # 时间
 author:     canjuly                 # 作者
 header-img: img/post-bg-2015.jpg    #这篇文章标题背景图片
